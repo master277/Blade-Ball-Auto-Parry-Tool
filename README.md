@@ -1,4 +1,4 @@
-# Blade Ball Auto Parry
+# Blade Ball Auto Parry tutorial how isntall [Click here](https://github.com/master277/Blade-Ball-Auto-Parry-Tool#-usage)
 
 An automatic parry tool for **Blade Ball**, written in Python and converted into a standalone `.exe`.
 
